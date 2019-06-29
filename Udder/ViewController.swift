@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     func viewDidWonk(){
     
     }
-
+    func viewDidPop(){
+        
+    }
 }
 
