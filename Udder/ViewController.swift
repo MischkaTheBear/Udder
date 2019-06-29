@@ -16,5 +16,8 @@ class ViewController: UIViewController {
     func viewDidPop(){
         
     }
+    func viewDidRock(){
+        
+    }
 }
 
